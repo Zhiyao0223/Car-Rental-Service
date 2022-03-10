@@ -1,0 +1,66 @@
+Car ID - 0001
+Car Brand - BMW
+Year made - 2017
+Car type - SUV
+Gear - Automatic
+Cost per hour - RM30
+Cost per day - RM720
+Cost per week - RM4800
+Mileage - 55000
+Available status - False
+# ------------------------------------
+Car ID - 0002
+Car Brand - Proton
+Year made - 2016
+Car type - Small Sedan
+Gear - Manual
+Cost per hour - RM10
+Cost per day - RM240
+Cost per week - RM1680
+Mileage - 34500
+Available status - False
+# ------------------------------------
+Car ID - 0003
+Car Brand - Perodua
+Year made - 2017
+Car type - Small Sedan
+Gear - Manual
+Cost per hour - RM10
+Cost per day - RM240
+Cost per week - RM1680
+Mileage - 20000
+Available status - True
+# ------------------------------------
+Car ID - 0004
+Car Brand - Volkswagen
+Year made - 2017
+Car type - SUV
+Gear - Automatic
+Cost per hour - RM25
+Cost per day - RM600
+Cost per week - RM4200
+Mileage - 35000
+Available status - True
+# ------------------------------------
+Car ID - 0005
+Car Brand - Porsche
+Year made - 2019
+Car type - Sport
+Gear - Automatic
+Cost per hour - RM35
+Cost per day - RM840
+Cost per week - RM5880
+Mileage - 18000
+Available status - True
+# ------------------------------------
+Car ID - 0006
+Car Brand - Honda
+Year made - 2015
+Car type - Small Sedan
+Gear - Manual
+Cost per hour - RM12
+Cost per day - RM288
+Cost per week - RM2016
+Mileage - 29000
+Available status - True
+# ------------------------------------

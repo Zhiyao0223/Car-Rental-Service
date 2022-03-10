@@ -1,0 +1,20 @@
+Rent ID - A1
+Customer ID - 0302102127
+Customer name - Alex Ng
+Date - 2021-05-10
+Car ID - 0001
+Car type - SUV (BMW)
+Rent days - 2w
+Total cost - Rm9600
+Trip mileage - 5000
+# ------------------------------------
+Rent ID - A2
+Customer ID - 0303102127
+Customer name - Albert Ng
+Date - 2021-05-11
+Car ID - 0002
+Car type - Small Sedan (Proton)
+Rent days - 7d
+Total cost - RM1680
+Trip mileage - 3000
+# ------------------------------------

@@ -1,0 +1,16 @@
+ID - A001
+username - Jonathan2309
+password - 242526
+# -----------------------------
+ID - 0302102127
+username - Alex Ng
+password - 343536
+email - alexng@gmail.com
+contact number - 0123456789
+# -----------------------------
+ID - 0303102127
+username - Albert Ng
+password - 434446
+email - albertng@hotmail.com
+contact number - 0132456788
+# -----------------------------
